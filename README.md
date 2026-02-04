@@ -18,7 +18,7 @@ The system follows a Planner-Executor-Verifier architecture:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/Night-E-ye/ai_ops_assistant.git
     cd ai_ops_assistant
     ```
 
